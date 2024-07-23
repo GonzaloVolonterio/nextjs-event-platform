@@ -1,12 +1,12 @@
-# Full STack App - Nexjs
+# Full Stack App - Nexjs
 
 # Evently
 ## Event Platfrom
 
 ## Create Events: Users can effortlessly generate new events, providing essential details such as title, date, location, and any additional information.
-Read Events: Seamless access to a detailed view of all events, allowing users to explore event specifics, including descriptions, schedules, and related information.
-Update Events: Empowering users to modify event details dynamically, ensuring that event information remains accurate and up-to-date.
-Delete Events: A straightforward process for removing events from the system, giving administrators the ability to manage and curate the platform effectively.
+## Read Events: Seamless access to a detailed view of all events, allowing users to explore event specifics, including descriptions, schedules, and related information.
+## Update Events: Empowering users to modify event details dynamically, ensuring that event information remains accurate and up-to-date.
+## Delete Events: A straightforward process for removing events from the system, giving administrators the ability to manage and curate the platform effectively.
 
 👉 Authentication (CRUD) with Clerk: User management through Clerk, ensuring secure and efficient authentication.
 
