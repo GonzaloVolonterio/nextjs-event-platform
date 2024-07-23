@@ -1,7 +1,7 @@
 # Full Stack App - Nexjs
 
 # Evently
-## Event Platfrom
+## Event Platform
 
 ## Create Events: Users can effortlessly generate new events, providing essential details such as title, date, location, and any additional information.
 ## Read Events: Seamless access to a detailed view of all events, allowing users to explore event specifics, including descriptions, schedules, and related information.
@@ -11,7 +11,6 @@
 👉 Authentication (CRUD) with Clerk: User management through Clerk, ensuring secure and efficient authentication.
 
 👉 Events (CRUD): Comprehensive functionality for creating, reading, updating, and deleting events, giving users full control over event management.
-
 
 👉 Related Events: Smartly connects events that are related and displaying on the event details page, making it more engaging for users
 
@@ -94,7 +93,7 @@ Replace the placeholder values with your actual credentials
 ```
 ### Live
 
-http://event-app-wheat.vercel.app
+https://event-app-wheat.vercel.app
 
 ![a001ev](https://github.com/user-attachments/assets/7ee489ac-9c5c-43cc-8663-f7d270f51d9a) ![a002ev](https://github.com/user-attachments/assets/43729396-fcc8-4a28-9898-f2218876d4cb)
 
