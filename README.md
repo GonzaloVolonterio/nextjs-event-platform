@@ -92,6 +92,9 @@ STRIPE_WEBHOOK_SECRET=
 NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=
 Replace the placeholder values with your actual credentials
 ```
+### Live
+
+event-app-wheat.vercel.app
 
 ![a001ev](https://github.com/user-attachments/assets/7ee489ac-9c5c-43cc-8663-f7d270f51d9a) ![a002ev](https://github.com/user-attachments/assets/43729396-fcc8-4a28-9898-f2218876d4cb)
 
