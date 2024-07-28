@@ -1,4 +1,4 @@
-# Full Stack App - Nexjs
+# Full Stack App - Nextjs
 
 # Evently
 ## Event Platform
