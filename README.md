@@ -40,9 +40,7 @@ Stripe
 Zod
 React Hook Form
 Shadcn
-uploadthing
-TypeScript 
-Stylesheet
+Uploadthing
 ```
 
 ### Clone repo 🔧
